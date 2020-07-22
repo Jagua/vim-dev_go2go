@@ -1,0 +1,49 @@
+*dev_go2go.txt*  dev_go2go: support dev.go2go
+
+Version: 0.1.0
+Author: Jagua
+License: MIT License
+
+
+
+==============================================================================
+INTRODUCTION                                          *dev_go2go-introduction*
+
+*dev_go2go* is a plugin to support dev.go2go for Vim.
+
+
+Requirements:
+- Vim (|+terminal|)
+- Go
+- Git
+
+Optionals:
+- |vim-lsp|
+- |vim-quickrun|
+
+Latest version:
+https://github.com/Jagua/vim-dev_go2go
+
+
+
+==============================================================================
+INTERFACE                                                *dev_go2go-interface*
+
+------------------------------------------------------------------------------
+COMMANDS                                                  *dev_go2go-commands*
+
+:DevGo2GoInstall                                            *:DevGo2GoInstall*
+        install or update go/go2go/gopls.
+
+
+
+==============================================================================
+CHANGELOG                                                *dev_go2go-changelog*
+
+0.1.0   2020-07-22
+        - Initial version.
+
+
+
+==============================================================================
+vim:tw=78:ts=8:ft=help:et:norl:fen:fdl=0:
