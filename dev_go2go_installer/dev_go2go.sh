@@ -1,7 +1,5 @@
 #!/bin/sh
 
-set -e
-
 default_directory() {
   local dirpath=""
 
